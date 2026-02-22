@@ -8,7 +8,7 @@ if __name__ == '__main__':
     print('solid')
     for i in range(11):
         for j in range(11):
-            print('🌷', end='')
+            print('🌼', end='')
         print('')
 
     print('')
