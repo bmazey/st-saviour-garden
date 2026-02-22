@@ -1,2 +1,2 @@
-# st-saviour-bazaar-python
+# 🧚🏽‍♀️🌱 st-saviour-garden 🌺✨
 Computer Science: Foundations | St. Saviour High School
